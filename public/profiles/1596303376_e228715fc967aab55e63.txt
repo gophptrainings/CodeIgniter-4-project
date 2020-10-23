@@ -1,0 +1,1 @@
+11:32:41	 From  5693033 : max length kuda udalantey? validators.minlength(3,6) rayala sir

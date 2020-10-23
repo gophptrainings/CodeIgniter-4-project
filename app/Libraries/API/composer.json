@@ -1,0 +1,12 @@
+{
+    "name": "ram/libraries",
+    "authors": [
+        {
+            "name": "gophptrainings",
+            "email": "gophptrainings@gmail.com"
+        }
+    ],
+    "require": {
+        "google/apiclient": "^2.0"
+    }
+}
